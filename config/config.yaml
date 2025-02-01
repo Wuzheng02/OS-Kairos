@@ -1,0 +1,19 @@
+eval_sample_mode: "sequential" # "random" or "sequential"
+max_steps: 15
+gemini_key: ''
+openai_key: ''
+glm_key: ''
+teacher_model: "glm" # "gemini"or"gpt"or"glm"
+policy_lm: '/data2/models/OS_ATlas_Pro_7B'
+sft_lm: '/data4/wuzh/HiMA'
+use_lora: False
+do_sample: True
+max_new_tokens: 128
+cache_dir: '/data1/wuzh/.cache'
+assets_path: '/data1/wuzh/HiMA'
+save_path: '/data1/wuzh/dongtai/2025-02-01'
+json_name: 'data.json'
+eval_nums: 1
+mode: 'test_mode' # "test_mode" or "makedata_mode"
+test_mode: 'realworld_test' # "single_step" or "the_entire_trajectory" or "gpt_test" or "realworld_test"
+test_path: '/data1/wuzh/xiaohongshu/xiaohongshu_test.json'
