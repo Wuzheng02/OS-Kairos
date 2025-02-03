@@ -143,7 +143,7 @@ def get_action_type(action):
         return 3
     elif action.startswith("PRESS_BACK"):
         return 4
-    elif action.startswith("PREES_HOME"):
+    elif action.startswith("PRESS_HOME"):
         return 4
     elif action.startswith("ENTER"):
         return 4
