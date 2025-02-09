@@ -116,4 +116,6 @@ We thank all the contributors to this project. More contributions are always wel
   <img src="https://contrib.rocks/image?repo=Wuzheng02/OS-Kairos" />
 </a>
 
+Made with [contrib.rocks](https://contrib.rocks).
+
 
