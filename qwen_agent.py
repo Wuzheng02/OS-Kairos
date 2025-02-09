@@ -23,7 +23,7 @@ def extract_coordinates(action):
 class QwenAgent:
     def __init__(self, device, accelerator, cache_dir='~/.cache', dropout=0.5, policy_lm=None,
                  max_new_tokens=32, use_bfloat16=False):
-        # 加载模型和处理器
+        
         self.model = Qwen2VLForConditionalGeneration.from_pretrained(
             policy_lm,  torch_dtype="auto", device_map="balanced"
         ).to(device)
@@ -124,7 +124,7 @@ class QwenAgent:
                     }
                 ]
 
-        # 处理输入并生成
+        
         chat_text = self.processor.apply_chat_template(
                     messages, tokenize=False, add_generation_prompt=True
                 )
