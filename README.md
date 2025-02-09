@@ -111,7 +111,9 @@ Please cite our [paper]() if you use this toolkit:
 ## Contributors
 We thank all the contributors to this project. More contributions are always welcome!
 
-<img src="https://contrib.rocks/image?repo=Wuzheng02/OS-Kairos" alt="Contributors" />
 
+<a href="https://github.com/Wuzheng02/OS-Kairos/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Wuzheng02/OS-Kairosr" />
+</a>
 
 
