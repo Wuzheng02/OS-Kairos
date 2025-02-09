@@ -118,6 +118,6 @@ ocr_recognition = pipeline(Tasks.ocr_recognition, model='damo/cv_convnextTiny_oc
 combined_data = get_ocr(image_path, ocr_detection, ocr_recognition)
 
 
-# 输出结果
+
 print(combined_data)
 '''
