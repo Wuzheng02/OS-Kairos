@@ -109,7 +109,8 @@ Please cite our [paper]() if you use this toolkit:
 ```
 
 ## Contributors
-We thank all the contributors to this project. And more contributions are very welcome.
+We thank all the contributors to this project. More contributions are always welcome!
 
 ![Contributors](https://contrib.rocks/image?repo=Wuzheng02/OS-Kairos)
+
 
