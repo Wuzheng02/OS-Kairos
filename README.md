@@ -113,7 +113,7 @@ We thank all the contributors to this project. More contributions are always wel
 
 
 <a href="https://github.com/Wuzheng02/OS-Kairos/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Wuzheng02/OS-Kairosr" />
+  <img src="https://contrib.rocks/image?repo=Wuzheng02/OS-Kairos" />
 </a>
 
 
