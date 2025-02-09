@@ -1,3 +1,38 @@
+<p align="center">
+    <img src="docs/images/logo.png" width = "400"  alt="" align=center />
+</p>
+<p align="center">
+  <a target="_blank">
+    <img src="https://github.com/thunlp/OpenAttack/workflows/Test/badge.svg?branch=master" alt="Github Runner Covergae Status">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://readthedocs.org/projects/openattack/badge/?version=latest" alt="ReadTheDoc Status">
+  </a>
+  <a  href=""  target="_blank">
+    <img src="https://img.shields.io/pypi/v/OpenAttack?label=pypi" alt="PyPI version">
+  </a>
+  <a  href=""  target="_blank">
+    <img src="https://img.shields.io/github/v/release/thunlp/OpenAttack" alt="GitHub release (latest by date)">  
+  </a>
+  <a target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/github/license/thunlp/OpenAttack">
+  </a>
+   <a target="_blank">
+    <img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PRs are Welcome">
+  </a>
+<!-- <br><br>
+  <a href="https://openattack.readthedocs.io/" target="_blank">Documentation</a> • <a href="#features--uses">Features & Uses</a> • <a href="#usage-examples">Usage Examples</a> • <a href="#attack-models">Attack Models</a> • <a href="#toolkit-design">Toolkit Design</a> 
+<br> -->
+</p>
+
+
+
+<div align="center">
+<img src="docs/images/pipeline.png" alt="Centered Image" style="width:1000px;"/>
+</div>
+
+
+
 ### 1. Environment Setup
 1. Clone the repository:
    ```bash
@@ -55,3 +90,24 @@
 ### 4. (Optional) If your instructions include Chinese, refer to the installation of Android Keyboard:
 - Install [Android Keyboard](https://github.com/senzhk/ADBKeyBoard).
 - Modify the `adb_input_text` function in `env.py` as instructed in the comments.
+
+### 5. Demo
+<div align="center">
+<img src="docs/images/demo.png" alt="Centered Image" style="width:1000px;"/>
+</div>
+
+## Citation
+
+Please cite our [paper]() if you use this toolkit:
+
+```
+@article{cheng2025OS,
+  title={OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents},
+  year={20245
+}
+```
+
+## Contributors
+We thank all the contributors to this project. And more contributions are very welcome.
+
+![Contributors](https://contrib.rocks/image?repo=Wuzheng02/OS-Kairos)
