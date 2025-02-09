@@ -31,6 +31,11 @@
 <img src="docs/images/pipeline.png" alt="Centered Image" style="width:1000px;"/>
 </div>
 
+### Demo
+
+<div align="center">
+<img src="docs/images/demo.png" alt="Centered Image" style="width:1000px;"/>
+</div>
 
 
 ### 1. Environment Setup
@@ -91,10 +96,6 @@
 - Install [Android Keyboard](https://github.com/senzhk/ADBKeyBoard).
 - Modify the `adb_input_text` function in `env.py` as instructed in the comments.
 
-### 5. Demo
-<div align="center">
-<img src="docs/images/demo.png" alt="Centered Image" style="width:1000px;"/>
-</div>
 
 ## Citation
 
