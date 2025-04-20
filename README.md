@@ -25,8 +25,9 @@
 <br> -->
 </p>
 
+<h3 align="center">
 OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents
-
+</h3>
 
 ## 🧠 Methodology
 
