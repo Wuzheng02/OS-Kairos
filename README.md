@@ -41,7 +41,7 @@ Research Code for preprint "OS-Kairos: Adaptive Interaction for MLLM-Powered GUI
 <img src="docs/images/demo.png" alt="Centered Image" style="width:800px;"/>
 </div>
 
-### 🛠️ Setup Before Starting
+## 🛠️ Setup Before Starting
 
 Before you begin, ensure your environment meets the following requirements:
 
