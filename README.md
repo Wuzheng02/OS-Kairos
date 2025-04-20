@@ -106,9 +106,11 @@ Research Code for preprint "OS-Kairos: Adaptive Interaction for MLLM-Powered GUI
 Please cite our [paper]() if you use this toolkit:
 
 ```
-@article{cheng2025OS,
+@article{cheng2025kairos,
   title={OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents},
-  year={20245
+  author={Cheng, Pengzhou and Wu, Zheng and Wu, Zongru and Zhang, Aston and Zhang, Zhuosheng and Liu, Gongshen},
+  journal={arXiv preprint arXiv:2503.16465},
+  year={2025}
 }
 ```
 
