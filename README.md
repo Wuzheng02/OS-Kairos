@@ -31,7 +31,7 @@
 <img src="docs/images/pipeline.png" alt="Centered Image" style="width:1000px;"/>
 </div>
 
-## 😍 Demo
+## 📺 Demo
 
 <div align="center">
 <img src="docs/images/demo.png" alt="Centered Image" style="width:800px;"/>
