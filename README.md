@@ -1,3 +1,6 @@
+.badge-link {
+    text-decoration: none;
+}
 <p align="center">
     <img src="docs/images/logo.png" width = "400"  alt="" align=center />
 </p>
