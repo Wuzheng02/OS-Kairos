@@ -41,6 +41,18 @@ Research Code for preprint "OS-Kairos: Adaptive Interaction for MLLM-Powered GUI
 <img src="docs/images/demo.png" alt="Centered Image" style="width:800px;"/>
 </div>
 
+### 🛠️ Setup Before Starting
+
+Before you begin, ensure your environment meets the following requirements:
+
+#### System Requirements
+
+- **Operating System**: Linux / macOS / Windows
+- **Hardware**: 
+  - A device with at least 32GB GPU memory is required for inference (64GB recommended).
+  - For SFT (Supervised Fine-Tuning), at least 3 * 80GB A100 GPUs are recommended.
+- **Android Device**: A physical Android device connected to your computer, or an Android Virtual Device (AVD) installed on your machine.
+
 ## 🚀 Quick Start
 ### 1. Environment Setup
 1. Clone the repository:
