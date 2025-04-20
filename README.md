@@ -113,7 +113,13 @@ Before you begin, ensure your environment meets the following requirements:
 - Modify the `adb_input_text` function in `env.py` as instructed in the comments.
 
 
-## Citation
+## 🔮 What's Coming Up
+We have further expanded the OS-Kairos work using reinforcement learning methods. Stay tuned!
+
+Let me know if you'd like more options!
+
+
+## 📑 Citation
 
 Please cite our [paper]() if you use this toolkit:
 
