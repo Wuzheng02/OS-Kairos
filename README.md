@@ -31,13 +31,13 @@
 <img src="docs/images/pipeline.png" alt="Centered Image" style="width:1000px;"/>
 </div>
 
-### Demo
+## 😍 Demo
 
 <div align="center">
-<img src="docs/images/demo.png" alt="Centered Image" style="width:1000px;"/>
+<img src="docs/images/demo.png" alt="Centered Image" style="width:800px;"/>
 </div>
 
-
+## 🚀 Quick Start
 ### 1. Environment Setup
 1. Clone the repository:
    ```bash
