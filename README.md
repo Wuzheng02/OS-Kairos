@@ -28,7 +28,7 @@
 <h3 align="center">
 OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents
 </h3>
-
+Research Code for preprint "OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents".
 ## 🧠 Methodology
 
 
