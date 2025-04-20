@@ -28,7 +28,7 @@
 <h3 align="center">
 OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents
 </h3>
-Research Code for preprint "OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents".
+Research Code for preprint "OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents". This repository offers an Android-based implementation of our research methodology. By enabling the test_mode setting, it also allows fully automated interaction with any real-world Android device or emulator using an intelligent agent.
 
 ## 🧠 Methodology
 
