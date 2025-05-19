@@ -26,7 +26,7 @@
 <h3 align="center">
 OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents
 </h3>
-Research Code for preprint "OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents". This code implements our human-in-the-loop interaction method on Android, and enables fully automated agent control via test_mode on real devices or emulators.
+Research code for the paper "OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents", accepted at Findings of ACL 2025.  This code implements our human-in-the-loop interaction method on Android, and enables fully automated agent control via test_mode on real devices or emulators.
 
 ## 🧠 Methodology
 
