@@ -67,8 +67,8 @@ Before you begin, ensure your environment meets the following requirements:
    ```bash
    pip install -r requirements.txt
    ```
-4. Dataset and checkpoint link: [Google Drive](https://drive.google.com/drive/folders/1LPmzxVPE7JAhRjaKjfe8qLA_d8M0RUgG?usp=drive_link)
-
+4. Dataset link: [Google Drive](https://drive.google.com/drive/folders/1LPmzxVPE7JAhRjaKjfe8qLA_d8M0RUgG?usp=drive_link)
+5. Model link：[Hugging Face](https://huggingface.co/wuuuuuz/OS-Kairos/tree/main)
 ### 2. Reproducing the Main Results of Static Experiments(Ignore 3)
 1. Navigate to the test script directory:
    ```bash
